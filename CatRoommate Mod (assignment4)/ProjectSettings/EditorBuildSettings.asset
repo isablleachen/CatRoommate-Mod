@@ -17,4 +17,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SelectionScene.unity
     guid: d0515f7344a24fa4aa1456f6d6412fb9
+  - enabled: 1
+    path: Assets/Scenes/CatScene.unity
+    guid: 0ae08917bb344b84cb26d42b11eb9467
+  - enabled: 1
+    path: Assets/Scenes/DogScene.unity
+    guid: 29bcd93566bb5764e9ca51a972480f26
+  - enabled: 1
+    path: Assets/Scenes/WizardScene.unity
+    guid: 3d1d26cefacc6054f91f4faa9702880e
   m_configObjects: {}
